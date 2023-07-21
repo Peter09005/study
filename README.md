@@ -9,4 +9,4 @@
 
 
 ## 알고리즘 
-- [DFS],[BFS](#) <br>
+- [DFS and BFS](#) <br>
