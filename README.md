@@ -10,3 +10,6 @@
 
 ## 알고리즘 
 - [DFS and BFS](#) <br>
+
+## AI 
+- [Introduction of AI](#) 
