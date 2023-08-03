@@ -12,4 +12,4 @@
 - [DFS and BFS](#) <br>
 
 ## AI 
-- [Introduction of AI](#) 
+- [Introduction of AI](https://github.com/Peter09005/study/blob/0a05c39eac29bf3ef81350a68ea7fe8ba8a56f40/AI/math/linearalgebra.md) 
