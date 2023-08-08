@@ -11,6 +11,7 @@
 ## 알고리즘 
 - [DFS and BFS](#) <br>
 - [이분탐색](https://github.com/Peter09005/study/blob/94558508cf9fbdd45d4dc8daf3e6a34334d1ff95/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89.md) <br>
+- [스택](#) <br> 
 
 ## AI 
 - [Introduction of AI](https://github.com/Peter09005/study/blob/0a05c39eac29bf3ef81350a68ea7fe8ba8a56f40/AI/math/linearalgebra.md) 
